@@ -1,6 +1,6 @@
 # Tradutor de arquivos .srt
 
-Traduz arquivos de legenda .srt para pt-BR
+Traduz arquivos de legenda .srt em en-US para pt-BR
 
 ## Dependências
 Depende do pacote [TRANSLATESHELL](https://github.com/soimort/translate-shell).
