@@ -17,8 +17,9 @@ $ ./translate_srt.sh
 A tradução é feita pelo Google Translator, então não espere uma tradução 100%, mas já para quebrar um galho.
 <br>
 <br>
-Enjoy!!!
-<br />
+<br>
+<br>
+<br>
 Dúvidas, críticas e sugestões:<br>
 E-mail: adaoduquesn@gmail.com<br>
 Telegram: @adaoDuque <br>
