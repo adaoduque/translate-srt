@@ -15,7 +15,8 @@ $ ./translate_srt.sh
 
 ## Sobre a tradução
 A tradução é feita pelo Google Translator, então não espere uma tradução 100%, mas já para quebrar um galho.
-
+<br>
+<br>
 Enjoy!!!
 <br />
 Dúvidas, críticas e sugestões:<br>
