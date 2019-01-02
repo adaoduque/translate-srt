@@ -5,7 +5,7 @@ Traduz arquivos de legenda .srt em en-US para pt-BR
 ## Dependências
 Depende do pacote [TRANSLATESHELL](https://github.com/soimort/translate-shell).
 
-s
+
 ```sh
 #Sete a permissão de execução do arquivo
 $ sudo chmod +x translate_srt.sh
@@ -15,8 +15,6 @@ $ ./translate_srt.sh
 
 ## Sobre a tradução
 A tradução é feita pelo Google Translator, então não espere uma tradução 100%, mas dá para quebrar um galho.
-<br>
-<br>
 <br>
 <br>
 <br>
