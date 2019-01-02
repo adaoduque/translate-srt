@@ -14,7 +14,7 @@ $ ./translate_srt.sh
 ```
 
 ## Sobre a tradução
-A tradução é feita pelo Google Translator, então não espere uma tradução 100%, mas já para quebrar um galho.
+A tradução é feita pelo Google Translator, então não espere uma tradução 100%, mas dá para quebrar um galho.
 <br>
 <br>
 <br>
