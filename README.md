@@ -1,16 +1,20 @@
-# Tradutor de arquivos srt.
-<br />
-O script traduz arquivos de legendas usando o Google Tradutor<br/>
-Requer uma revisão da tradução, até porque Google Tradutor não é perfeito, mas ajuda.
+# Tradutor de arquivos .srt
 
-## Dependência
+Traduz arquivos de legenda .srt para pt-BR
 
-Depende do pacote [TRANSLATE SHELL](https://github.com/soimort/translate-shell) para consultar o google tradutor.<br/>
+## Dependências
+Depende do pacote [TRANSLATESHELL](https://github.com/soimort/translate-shell).
+
+## Como rodar ?
+```sh
+#Sete a permissão de execução do arquivo
+$ sudo chmod +x translate_srt.sh
+#Execute o arquivo
+$ ./translate_srt.sh
+```
 
 Enjoy!!!
 <br />
 Dúvidas, críticas e sugestões:<br>
 E-mail: adaoduquesn@gmail.com<br>
 Telegram: @adaoDuque <br>
-
-
